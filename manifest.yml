@@ -1,8 +1,8 @@
 ---
 applications:
 - disk_quota: 1024M
-  host: nv-blockchain-chhan
-  name: nv-blockchain-chhan
+  host: nv-blockchain-bluemix-chhan
+  name: nv-blockchain-bluemix-chhan
   command: "node app.js"
   path: "."
   instances: 1
