@@ -1,5 +1,3 @@
-{
-  "ibm-blockchain-5-prod": [
     {
       "credentials": {
         "peers": [
@@ -242,5 +240,3 @@
         "ibm_created"
       ]
     }
-  ]
-}
